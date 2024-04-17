@@ -1,0 +1,7 @@
+-[x] user must be able to create a todo (user should get a warning if attempts to create empty todo)
+-[x] user must be able to to mark completed todo
+-[x] user must be edit a todo
+-[x] user must be able to delete a todo
+-[x] when user completes a todo, it must pop to the bottom of the list (if user double clicks by mistake, he should be able to return the todo back to uncompleted)
+-[x] user should be able to remove all completed todo from the list
+-[x] programmer should code it out.
